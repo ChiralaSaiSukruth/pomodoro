@@ -1,0 +1,42 @@
+body{
+  background-image: url("https://c1.wallpaperflare.com/preview/680/74/454/alarm-alarm-clock-bed-time-deadline.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.alarm{
+  padding: 40px;
+  margin: 40px;
+  border: 2px solid black;
+  align-items: center;
+  text-align: center;
+}
+.Start{
+  border: 2px solid black;
+  background-color: lightcoral;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.Start:hover{
+  color: black;
+}
+.Pause{
+  border: 2px solid black;
+  background-color: lightcoral;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.Pause:hover{
+  color: black;
+}
+.setCustomTime{
+  border: 2px solid black;
+  background-color: lightcoral;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+.setCustomTime:hover{
+  color: black;
+}
